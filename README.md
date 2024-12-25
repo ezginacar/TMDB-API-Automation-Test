@@ -12,8 +12,8 @@ This repository provides a structured approach for QA testing of The Movie Datab
 - Obtain your API key from [TMDB API Key Settings](https://www.themoviedb.org/settings/api).
 - Add the API key to the project:
   1. Open to project.
-  2. Go to 'src/test/resources/properties/prod.config.properties'
-  3.  Assign your own APIKey to the "apiKey" variable than save
+  2. Go to 'User Defined Variables'
+  3. Assign your own APIKey to the "apiKey" variable than save
 
 
 ## Steps to Use
