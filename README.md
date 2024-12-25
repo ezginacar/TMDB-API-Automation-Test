@@ -5,10 +5,8 @@ This repository provides a structured approach for QA testing of The Movie Datab
 ## Prerequisites
 1. **Java Installed:** Download from [Java]([https://www.postman.com/](https://www.oracle.com/tr/java/technologies/downloads/)).
 2. **Maven Installed:** Download from [Maven]([https://nodejs.org/tr](https://maven.apache.org/install.html))
-3. **IDE installed (optional)**
-4. 
-
-5. **API Keys:** Ensure you have a valid TMDB API key for testing.
+3. **IDE installed**
+4. **API Keys:** Ensure you have a valid TMDB API key for testing.
 
 ### Setting Up the API Key
 - Obtain your API key from [TMDB API Key Settings](https://www.themoviedb.org/settings/api).
